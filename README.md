@@ -41,10 +41,10 @@ Rename the `.env.example` to `.env` file  in the backend root directory and add 
 
 4. Run the Application:
 
-    from the root of the project run this bash command:
+    cd into backend root and run this command:
 
     ```bash
-    ./start.sh
+        npm run start:all
     ```
 
 ## API Endpoints
